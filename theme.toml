@@ -1,24 +1,24 @@
-name = "Poison"
+name = "Radium"
 license = "GPL-3.0 License"
-licenselink = "https://github.com/lukeorth/poison/blob/master/LICENSE.md"
-description = "A pragmatic Hugo theme for bloggers.  Based on the classic \"Hyde\" design by mdo."
+licenselink = "https://github.com/seasev/radium/blob/master/LICENSE.md"
+description = "My personal Hugo theme based on Poison, which is in turn based on the Hyde theme for Jekyll."
 min_version = "0.101.0"
 
 # The home page of the theme, where the source can be found.
-homepage = "https://github.com/lukeorth/poison"
+homepage = "https://github.com/seasev/radium"
 
 # If you have a running demo of the theme.
-demosite = "https://poison.lukeorth.com"
+#demosite = "https://poison.lukeorth.com"
 
 tags = ["blog", "personal", "dark", "dark-mode", "light", "minimal"]
 features = ["blog", "katex", "table-of-contents", "tabs", "dark-mode", "series"]
 
 [author]
-    name = "Luke Orth"
-    homepage = "https://lukeorth.com"
+    name = "Sean Williams"
+    homepage = "https://seansev.com"
 
 # If Porting existing theme
 [original]
-    author =  "mdo"
-    homepage = "http://markdotto.com/"
-    repo = "https://www.github.com/mdo/hyde"
+    author =  "Luke Orth"
+    homepage = "http://lukeorth.com"
+    repo = "https://www.github.com/lukeorth/poison"
